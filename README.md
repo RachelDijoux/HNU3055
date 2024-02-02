@@ -2,7 +2,7 @@
 
 J'ai choisi ce cours afin d'être plus vigilante à mon environnement numérique et en apprendre plus sur les données ouvertes.  
 
-Source des données : https://lisateichmann.github.io/udem2024_donneesouverts/
+Source des données provienne de : https://lisateichmann.github.io/udem2024_donneesouverts/
 
 Shield : [![CC BY 4.0][cc-by-shield]][cc-by]
 
